@@ -1,0 +1,12 @@
+h2 {
+  font-size: 48px;
+  font-weight: 600;
+  color: #9a9a9a;
+}
+.submitBtn {
+  background: #30be71 !important;
+  padding: 10px 40px !important;
+  border: none !important;
+  display: block !important;
+  margin: 0 auto !important;
+}
